@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mercado Libre</string>
+    <string name="find_your_perfect_category">find your perfect category</string>
+    <string name="hi_welcome_back">Hi, welcome back!</string>
+    <string name="search_product">Buscar producto</string>
+    <string name="mercado_libre">Mercado libre</string>
+</resources>
